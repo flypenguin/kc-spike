@@ -3,6 +3,6 @@ name: keycloak
 description: A Helm chart for deploying Quarkus based Keycloak (aka Keycloak.X or version 17+). Supports external database, ingress and clustering
 type: application
 # Chart version
-version: 0.1.0
+version: "0.1.0"
 # Version of Keycloak supported
 appVersion: "17.0.0"
